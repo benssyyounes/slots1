@@ -1,1 +1,2 @@
-# slots1
+# slotsBot
+discord bot for automating t!slots
